@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    //Se encarga de limpiar la pantalla.
+    //Se encarga de "limpiar" la pantalla.
     public static void Limpiar() {
         for (int i = 0; i < 50; i++) {
             System.out.println();
